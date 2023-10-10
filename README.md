@@ -33,5 +33,5 @@ The research paper concludes by emphasizing the need for reliable and intelligen
 ## References
 The paper includes a list of references to various sources and documents used for research.
 
-For more details, you can access the full paper [here](link-to-your-paper.pdf).
+For more details, you can access the full paper [here](https://github.com/rkukreja24/A-Research-on-Intelligent-Transportation-Systems-Worldwide).
 
